@@ -1,4 +1,4 @@
-# Official Repository for Deep Trainable Active Contours (DTAC)
+# Deep Trainable Active Contours (DTAC)
 
 Official Repository for Models in DTAC
 
